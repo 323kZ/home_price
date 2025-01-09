@@ -1,5 +1,6 @@
 # Home_Price
 **code file** -  https://github.com/323kZ/home_price/blob/main/home_data.ipynb
+**ppt of the complete project** - https://github.com/323kZ/home_price/blob/main/price.pptx
 ## Overview
 
 This project focuses on building a predictive data science model to analyze how various factors influence US home prices over the last 20 years. The S&P CoreLogic Case-Shiller U.S. National Home Price Index (CSUSHPISA) is used as the target variable for home prices.
