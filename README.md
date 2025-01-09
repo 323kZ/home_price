@@ -1,5 +1,5 @@
 # Home_Price
-**code file** -  https://github.com/323kZ/home_price/blob/main/home_data.ipynb
+**code file** -  https://github.com/323kZ/home_price/blob/main/home_data.ipynb   
 **ppt of the complete project** - https://github.com/323kZ/home_price/blob/main/price.pptx
 ## Overview
 
